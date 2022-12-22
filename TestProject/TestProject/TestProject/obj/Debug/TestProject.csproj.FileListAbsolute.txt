@@ -1,0 +1,12 @@
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\obj\Debug\TestProject.Forms.KokarevForm.resources
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\obj\Debug\TestProject.Forms.VolkovForm.resources
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\obj\Debug\TestProject.MainForm.resources
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\partn\Desktop\TestProject\TestProject\TestProject\obj\Debug\TestProject.pdb
